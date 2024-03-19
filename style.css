@@ -1,0 +1,29 @@
+body {
+    background-color:black; 
+}
+
+h1{
+    font-family: "Libre Baskerville" serif;
+    font-size: 2rem; 
+    color: white; 
+    text-transform: uppercase;
+}
+
+.poster{
+    margin-top:100px; 
+    margin-left: 25%;
+    width: 50%;
+    text-align: center; 
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+      }
+}
+
+
+.hiker{
+border: 5px solid white ; 
+width: 100%;  
+
+}
